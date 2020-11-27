@@ -8,7 +8,7 @@
 
 使用`pytorch`训练一个深度学习的模型来实现验证码的自动识别，其中验证码由`python`包`cpatcha`生成，其样子如下：
 
-![](./userTest/0Up4.jpg)
+![avatar](./userTest/0Up4.jpg)
 
 ### 数据生成
 
